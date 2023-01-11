@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1669749337938",
+        "name": "CD Lily Allen - It's Not Me, It's You",
+        "price": 29.90,
+        "image_url": "https://m.media-amazon.com/images/I/61QhTVshqmL._AC_SX679_.jpg"
+    },
+    {
+        "id": "1669749337939",
+        "name": "CD Ashlee Simpson - Autobiography",
+        "price": 19.90,
+        "image_url": "https://m.media-amazon.com/images/I/71UvrwygP-L._AC_SX522_.jpg"
+    },
+    {
+        "id": "1669749337940",
+        "name": "CD Taylor Swift - Folklore",
+        "price": 49.90,
+        "image_url": "https://m.media-amazon.com/images/I/A1Q6XGXmIFL._AC_SX679_.jpg"
+    }
+]

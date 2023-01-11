@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1669751515030",
+        "name": "Matheus",
+        "email": "matheus@gmail.com",
+        "password": "senha123"
+    },
+    {
+        "id": "1669751515031",
+        "name": "Luiza",
+        "email": "luiza@gmail.com",
+        "password": "senha12345"
+    },
+    {
+        "id": "1669751515032",
+        "name": "Izabel",
+        "email": "izabel@gmail.com",
+        "password": "senhaaaa123"
+    }
+]

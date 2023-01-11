@@ -1,0 +1,50 @@
+POST http://localhost:3003/users
+Content-Type: application/json
+
+{
+    "name": "Maria",
+    "email": "maria@gmail.com",
+    "password": "bananinha"
+}
+
+###
+
+GET http://localhost:3003/users
+Content-Type: application/json
+
+###
+
+POST http://localhost:3003/products
+Content-Type: application/json
+
+{
+    "name": "CD Avril Lavigne - Let Go",
+    "price": 25.9,
+    "image_url": "https://m.media-amazon.com/images/I/710I-xClCiL._AC_SX679_.jpg"
+}
+
+###
+
+GET http://localhost:3003/products
+Content-Type: application/json
+
+###
+
+GET http://localhost:3003/products?order=desc&search=taylor
+Content-Type: application/json
+
+###
+
+POST http://localhost:3003/purchases
+Content-Type: application/json
+
+{
+    "userId": "1669751515031",
+    "productId": "1669751515031",
+    "quantity": 1
+}
+
+###
+
+GET http://localhost:3003/users/1669749337942/purchases
+Content-Type: application/json
